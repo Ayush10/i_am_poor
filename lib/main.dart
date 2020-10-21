@@ -10,6 +10,7 @@ void main() {
             child: Text("I am poor!"),
           ),
         ),
+        backgroundColor: Colors.blueGrey,
         body: Center(
           child: Image(
             image: NetworkImage(
